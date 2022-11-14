@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "990100ced3f68ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "811753e5d0121d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe85f54b54444a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercise Present Perfect Tense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2f38a3b6e393a6bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cb8b68e3f925d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hiện tại phân từ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9265feda29c27ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d698c3c2be8938a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "243447652f05d645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f299352994f9e7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc2a9cdccb75f843",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "38e1c7ef18ce23d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "565dd6a2007f3ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9c73113a949dd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exercise Present Perfect Tense.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9307a4a2642f08cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exercise Present Perfect Tense.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "baecf9c013c61b6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e057493e5e7e5716",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exercise Present Perfect Tense.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6fe85f54b54444a7",
+  "lastOpenFiles": [
+    "Hiện tại phân từ.md",
+    "Exercise Present Perfect Tense.md",
+    "been used to.md",
+    "Đã lâu lắm rồi không về thăm lại chốn xưa.md",
+    "be used to something.md"
+  ]
+}
