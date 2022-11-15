@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "ba13f3100542289f",
+    "type": "split",
+    "children": [
+      {
+        "id": "185306c38942a18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78bb5239a786b969",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb52216fccc4bcd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7a816e93e91098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9adaa6dcd7af145f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b0e3f72090ac228",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4959e8bb212676b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.50434494018555
+  },
+  "right": {
+    "id": "059f2730a65937aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd20ff9a3890c3e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19cf0a8067677ce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b82060d6581892d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a13c57e83411b397",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0564d4dd3a836190",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "78bb5239a786b969",
+  "lastOpenFiles": [
+    "Cấu trúc câu.md",
+    "English Note/Exercise Present Perfect Tense.md",
+    "English Note/Hiện tại phân từ.md",
+    "English Note/been used to.md",
+    "Vocabulary/P.md",
+    "Mốc thời gian trong tiếng anh.md"
+  ]
+}
