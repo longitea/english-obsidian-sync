@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "185306c38942a18c",
+        "id": "9411472ddc996615",
         "type": "tabs",
         "children": [
           {
-            "id": "78bb5239a786b969",
+            "id": "63fc620e4a63eba1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "12 thì/Future Tense/So sánh TLD vs HTD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "12 thì/Future Tense/So sánh TLD vs HTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "12 thì/Future Tense/So sánh TLD vs HTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "12 thì/Future Tense/So sánh TLD vs HTD.md"
+              }
             }
           }
         ]
@@ -128,12 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78bb5239a786b969",
+  "active": "63fc620e4a63eba1",
   "lastOpenFiles": [
-    "Cấu trúc câu.md",
-    "English Note/Exercise Present Perfect Tense.md",
-    "English Note/Hiện tại phân từ.md",
     "English Note/been used to.md",
+    "English Note/Exercise Present Perfect Tense.md",
+    "Cấu trúc câu.md",
+    "English Note/Hiện tại phân từ.md",
     "Vocabulary/P.md",
     "Mốc thời gian trong tiếng anh.md"
   ]
