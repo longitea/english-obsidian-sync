@@ -11,3 +11,4 @@ TLG: kế hoạch, 1 thứ đã được suy tính từ trước rồi -> có c�
 ```
 S + am/is/are + going to + V
 ```
+
