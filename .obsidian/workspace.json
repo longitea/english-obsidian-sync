@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9411472ddc996615",
+        "id": "03341ade34bf476e",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0bf2117b06fd90",
+            "id": "aee12c5afbf782d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12 thì/Future Tense/Công thức thì TLD vs TLG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ba53d136d400233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12 thì/Future Tense/Practice Future Tense.md",
+                "file": "Day 0 - Tương tác ôn tập lại kiến thức cũ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50434494018555
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "059f2730a65937aa",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 thì/Future Tense/Practice Future Tense.md",
+                "file": "Day 0 - Tương tác ôn tập lại kiến thức cũ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 thì/Future Tense/Practice Future Tense.md",
+                "file": "Day 0 - Tương tác ôn tập lại kiến thức cũ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 thì/Future Tense/Practice Future Tense.md"
+                "file": "Day 0 - Tương tác ôn tập lại kiến thức cũ.md"
               }
             }
           }
@@ -149,15 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ba53d136d400233",
+  "active": "9adaa6dcd7af145f",
   "lastOpenFiles": [
-    "12 thì/Future Tense/Công thức thì TLD vs TLG.md",
-    "12 thì/Future Tense/Practice Future Tense.md",
+    "cau_truc_cau_tong_quat.png",
+    "Day 0 - Tương tác ôn tập lại kiến thức cũ.md",
+    "Pasted image 20221201205236.png",
+    "Untitled.md",
+    "To-be.md",
+    "English Note/Cấu trúc câu.md",
+    "12 Thì Cơ Bản/Future Tense/Practice Future Tense.md",
+    "12 Thì Cơ Bản/Future Tense/Công thức thì TLD vs TLG.md",
     "English Note/been used to.md",
-    "English Note/Exercise Present Perfect Tense.md",
-    "Cấu trúc câu.md",
-    "English Note/Hiện tại phân từ.md",
-    "Vocabulary/P.md",
-    "Mốc thời gian trong tiếng anh.md"
+    "English Note/Exercise Present Perfect Tense.md"
   ]
 }
