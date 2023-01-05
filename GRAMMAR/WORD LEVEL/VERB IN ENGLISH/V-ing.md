@@ -1,0 +1,1 @@
+Danh động từ trong tiếng anh, hay còn được gọi là gerund

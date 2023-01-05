@@ -1,3 +1,5 @@
+Hiện tại phân từ là V-ing
+Quá khứ phân từ là V-ed
 Khi 2 câu có cùng 1 chủ từ thì có quyền ghép lại thành một câu có 1 mệnh đề, còn lại là hiện tại phân từ
 
 
@@ -16,5 +18,6 @@ Khi 2 câu có cùng 1 chủ từ thì có quyền ghép lại thành một câu
 
 ```
 Having been in a town.
+It have been in a town
 ```
 
