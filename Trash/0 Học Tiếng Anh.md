@@ -29,6 +29,11 @@ Ngữ pháp > Thì > Cấu trúc câu
 => nên nội dung lớp nắm sẽ tập trung vào 4 Level in [[English Grammar]]
 
 
+
+
+
+cái thì này tự nhiên xuất hiện không biết xếp nó vào đâu luôn ???
+
 # Sau đó mới học đến thì [[Tense]]
 ---
 Đa phần các bạn sắp xếp thì không có logic cho nên nó khó nhớ 

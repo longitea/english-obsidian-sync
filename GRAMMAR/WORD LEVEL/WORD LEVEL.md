@@ -1,6 +1,10 @@
 
 [[WORD LEVEL]] hay còn gọi là **Từ loại** , là đơn vị từ đầu tiên trong [[English Grammar]]
 
+## Fun Fact
+Đa phần các bạn không gãy ở thì, các bạn gãy ở từ. 😆
+
+
 ## Có bao nhiêu từ loại trong tiếng anh ?
 How many kind of word are there in english ?
 
@@ -19,3 +23,12 @@ Adverb (trạng từ) -> add verb: bổ sung cho verd
 
 Adjective (tính từ) -> add objective(vật thể): bổ sung cho danh từ
 ```
+
+
+# Note
+---
+Chỗ này bổ sung full note sau, note có trong clip buổi 0:
+```
+https://youtu.be/VLLSbUQAN8U
+```
+
