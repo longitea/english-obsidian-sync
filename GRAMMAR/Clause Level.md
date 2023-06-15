@@ -1,4 +1,5 @@
-[[Clause Level]] hay còn gọi là mệnh đề là đơn vị về mệnh đề trong [[English Grammar]]
+[[Clause Level]] hay còn gọi là mệnh đề/vế là đơn vị về câu trong [[English Grammar]]
+về điều kiện đồ á. clause condition
 
 # Khi ai đó hỏi, một mệnh đề là gì ?
 

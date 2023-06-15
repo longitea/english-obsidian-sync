@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👊",
       "🫤",
       "📪",
       "🖼",
-      "📥",
-      "📂"
+      "📥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "Eng Productivity": "📂",
   "TEMPLATE": "🟪",
   "GRAMMAR/WORD LEVEL": "📪",
-  "GRAMMAR/WORD LEVEL/VERB IN ENGLISH": "🫤"
+  "GRAMMAR/WORD LEVEL/VERB IN ENGLISH": "🫤",
+  "NẮM 05": "👊"
 }

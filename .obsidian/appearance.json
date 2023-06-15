@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "SF Mono",
+  "textFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [],
   "baseFontSizeAction": true,
   "monospaceFontFamily": "JetBrains Mono",

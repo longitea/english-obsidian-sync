@@ -1,9 +1,13 @@
+
 Trạng từ sẽ bổ sung cho động từ.
 adverb là thêm vào sau verb
 
 
-## Cách từ loại trạng từ
-1. Tính từ thêm đuôi ly
+
+## 2. Một số trạng từ thông dụng
+**Example**: [[Một số adverb cần học]]
+
+#### 1.Tính từ thêm đuôi ly -> adv
 ```
 badly, beautifully, fastly
 ```
@@ -11,6 +15,13 @@ badly, beautifully, fastly
 ```
 Always, Usually, Sometimes, However, Well, ...
 ```
+
+#### 2. Trạng từ chỉ mức độ thường xuyên
+
+```
+Usually, always, sometime
+```
+
 
 
 # Note
@@ -34,6 +45,8 @@ Tôi đã ngu ngốc bỏ cuộc:
 
 ## 2. Vị trí của trạng từ trong câu
 
+### Case 1: 3 vị trí của trạng trừ dùng để bổ sung cho động từ
+
 Trạng từ bổ sung cho động từ, **đứng trước động từ / đứng sau tân ngữ /  sau be**
 
 ### Example vị trí của trạng từ
@@ -45,6 +58,19 @@ I do my job **seriously**
 
 #### 3. Thần chú: đứng sau be
 is always chứ ít khi nào always is lắm.
+
+
+### Case 2: vị trí của trạng từ bổ sung cho nguyên mệnh đề
+
+
+**Example**: adv bổ sung cho cả mệnh đề
+1. **Obviously**, I was not born good at English 
+	hiển nhiên, tôi không sinh ra đã giỏi tiếng anh
+
+
+2. hình thức vị trí đứng đặc biệt hơn![[Pasted image 20230510163210.png]]
+
+
 
 
 

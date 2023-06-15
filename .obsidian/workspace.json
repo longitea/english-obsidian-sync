@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee5f3521657b61e",
+        "id": "7718178460b586dc",
         "type": "tabs",
         "children": [
           {
-            "id": "c67bb032afa2d1a6",
+            "id": "45fbe98f0b37cd07",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "11f02b28af9ffbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian theme research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tense",
+                "query": "present con",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +71,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "81871fb3e319c2ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -82,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Obsidian theme research.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian theme research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian theme research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian theme research.md"
+              }
             }
           }
         ]
@@ -214,42 +240,45 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "c67bb032afa2d1a6",
+  "active": "11f02b28af9ffbd8",
   "lastOpenFiles": [
-    "English Grammar.md",
-    "Mệnh Đề Quan Hệ.md",
-    "GRAMMAR/Clause Level.md",
-    "Trash/0 Học Tiếng Anh.md",
-    "Tense.md",
+    "Obsidian theme research.md",
+    "Employ.md",
+    "Buổi 03.md",
+    "150 từ vựng của lớp Nắm 05.md",
+    "NẮM 05/Overview Page.md",
     "TENSE/Present Simple.md",
-    "Buổi 26 MDQH part 2 7a3fe795b1e24f528c293e9c740ce983.md",
-    "Bài Tập Modal Verb.md",
-    "Công thức.md",
-    "HTHTTD.md",
-    "Present Perfect.md",
-    "GRAMMAR/WORD LEVEL/VERB IN ENGLISH/Verb.md",
-    "Simple Past.md",
+    "Tense.md",
+    "Past Continuous.md",
+    "TENSE/Present Continuous.md",
     "GRAMMAR/WORD LEVEL/Adverb.md",
-    "IMG/IMG_3025.jpeg",
-    "GRAMMAR/WORD LEVEL/Conjunction.md",
-    "GRAMMAR/WORD LEVEL/Preposition.md",
+    "Trash/0 Học Tiếng Anh.md",
+    "NẮM 05/BUỔI 01/LACK.md",
+    "NẮM 05/BUỔI 01",
+    "NẮM 05",
     "GRAMMAR/WORD LEVEL/WORD LEVEL.md",
     "TLHT.md",
-    "TLG.md",
     "TLTD.md",
+    "GRAMMAR/WORD LEVEL/VERB IN ENGLISH/To be.md",
+    "GRAMMAR/WORD LEVEL/VERB IN ENGLISH/Verb.md",
+    "GRAMMAR/WORD LEVEL/VERB IN ENGLISH/Động từ chỉ chức năng trong câu.md",
+    "Công thức.md",
+    "IMG/Pasted image 20230510163210.png",
+    "Một số adverb cần học.md",
+    "GRAMMAR/WORD LEVEL/VERB IN ENGLISH/Modal Verb.md",
+    "Bài Tập Modal Verb.md",
+    "Modal Verb Equivalent.md",
+    "GRAMMAR/Clause Level.md",
+    "Conditional Sentence.md",
+    "GRAMMAR/Sentence level.md",
+    "IMG/IMG_3025.jpeg",
     "IMG/Pasted image 20230327180339.png",
-    "TLD.md",
-    "GRAMMAR/WORD LEVEL/Noun.md",
     "IMG/Pasted image 20230321104645.png",
-    "Past Continuous.md",
-    "Untitled.md",
-    "English Note/Exercise Present Perfect Tense.md",
     "IMG/Pasted image 20230318135745.png",
     "IMG/Pasted image 20230318131552.png",
     "IMG/Pasted image 20230318124109.png",
     "IMG/Pasted image 20230318131221.png",
     "Untitled.canvas",
-    "GRAMMAR/WORD LEVEL/VERB IN ENGLISH/Modal Verb.md",
     "IMG/Pasted image 20230318024951.png"
   ]
 }

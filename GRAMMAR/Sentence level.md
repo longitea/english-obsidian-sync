@@ -14,5 +14,7 @@ Sao đơn vị về từ rồi mà còn đơn vị về câu nữa ?
 	=> Nó vẫn là 1 câu.
 
 
+# How many kind of sentence  in english ?
 
 
+1. [[Conditional Sentence]]: Câu điều kiện
